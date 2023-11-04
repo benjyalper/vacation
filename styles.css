@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(pink, lightblue);
+    background-repeat: no-repeat;
+}
+
+.select-container {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+}
