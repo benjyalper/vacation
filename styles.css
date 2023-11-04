@@ -1,7 +1,12 @@
 body {
     height: 100vh;
-    background-image: linear-gradient(pink, lightblue);
-    background-repeat: no-repeat;
+    background-image: url(./snow.jpg);
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
 }
 
 .select-container {
